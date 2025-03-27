@@ -1,0 +1,11 @@
+{
+    "categories": [
+      { "name": "Ноутбуки" },
+      { "name": "Смартфони" }
+    ],
+    "products": [
+      { "name": "MacBook Air", "category": "Ноутбуки", "imageUrl": "https://example.com/macbook.jpg" },
+      { "name": "iPhone 15", "category": "Смартфони", "imageUrl": "https://example.com/iphone.jpg" }
+    ]
+  }
+  
